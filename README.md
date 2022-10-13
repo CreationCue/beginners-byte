@@ -7,7 +7,7 @@
 <h1 align="center">
     BitByte - The Programming Club
     <br>
-    Beginners-Byte (Level 2)
+    Beginners-Byte (Level 3)
 </h1>
 
 <div align="center">

@@ -4,10 +4,10 @@
     </a>
 </p>
 
-<h1 align="center"> 
+<h1 align="center">
     BitByte - The Programming Club
     <br>
-    Beginners-Byte 
+    Beginners-Byte (Level 2)
 </h1>
 
 <div align="center">
